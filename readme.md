@@ -7,3 +7,4 @@
 # Materiale
 * MIPStextSMv11 https://github.com/SimoneMoreWare/Calcolatori_elettronici/blob/main/MIPStextSMv11.pdf
 * MIPS_Green_Sheet https://github.com/SimoneMoreWare/Calcolatori_elettronici/blob/main/MIPS_Green_Sheet%20(1).pdf
+* istruzioni https://github.com/SimoneMoreWare/Calcolatori_elettronici/blob/main/MIPS_Instr_M.pdf
